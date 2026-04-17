@@ -25,9 +25,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/pankaj8saikia/xango-spark-archetype.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/pankaj8saikia/xango-spark-archetype.git</developerConnection>
-        <url>https://github.com/pankaj8saikia/xango-spark-archetype</url>
+        <connection>scm:git:https://github.com/pankaj8saikia/xango-spark-framework.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/pankaj8saikia/xango-spark-framework.git</developerConnection>
+        <url>https://github.com/pankaj8saikia/xango-spark-framework</url>
     </scm>
 
     <modules>

@@ -25,11 +25,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/pankaj8saikia/xango-spark.git</connection>
-        <developerConnection>scm:git:ssh://github.com:pankaj8saikia/xango-spark.git</developerConnection>
-        <url>https://github.com/pankaj8saikia/xango-spark</url>
-      <tag>xango-spark-parent-1.0.0</tag>
-  </scm>
+        <connection>scm:git:https://github.com/pankaj8saikia/xango-spark-archetype.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/pankaj8saikia/xango-spark-archetype.git</developerConnection>
+        <url>https://github.com/pankaj8saikia/xango-spark-archetype</url>
+    </scm>
 
     <modules>
         <module>xango-spark-lib</module>

@@ -8,7 +8,7 @@
     <version>${version}</version>
 
     <name>${artifactId}</name>
-    <description>Spark application generated from the spark-archetype.</description>
+    <description>Spark application generated from the xango-spark-archetype.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

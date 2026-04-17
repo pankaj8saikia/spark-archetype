@@ -1,6 +1,6 @@
 # ${artifactId}
 
-Spark application generated from the `spark-archetype`.
+Spark application generated from the `xango-spark-archetype`.
 
 ## Pattern
 

@@ -36,14 +36,14 @@ The archetype is designed so generated projects depend on the published library 
 mvn archetype:generate \
   -DarchetypeGroupId=io.github.pankaj8saikia \
   -DarchetypeArtifactId=xango-spark-archetype \
-  -DarchetypeVersion=1.0-SNAPSHOT \
+  -DarchetypeVersion=1.0.0 \
   -DgroupId=com.acme.data \
   -DartifactId=sample-spark-job \
   -Dversion=1.0.0-SNAPSHOT \
   -Dpackage=com.acme.data \
   -DxangoSparkLibraryGroupId=io.github.pankaj8saikia \
   -DxangoSparkLibraryArtifactId=xango-spark-lib \
-  -DxangoSparkLibraryVersion=1.0-SNAPSHOT \
+  -DxangoSparkLibraryVersion=1.0.0 \
   -DinteractiveMode=false
 ```
 
